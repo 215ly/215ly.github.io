@@ -12,11 +12,25 @@
   <div id="app">Please wait...</div>
   <script>
     window.$docsify = {
-      name: '',
-      repo: ''
+      name: 'book小站',
+      repo: 'https://github.com/215ly',
+      loadNavbar: true, //开启导航栏,
+      themeColor: '#25798A', //主题色
+      auto2top: true,//切换选项卡自动回到屏幕顶部
+      nativeEmoji: true,//使用 GitHub 风格的表情符号图像或平台原生的表情符号字符呈现表情符号速记代码。
+      search: 'auto', // default
+      search: [
+      '/',            // => /README.md
+      '/about',       // => /guide.md
+    ],
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+    <!-- 图片放大缩小支持 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <!-- 图片放大缩小支持 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+
 </body>
 </html>
