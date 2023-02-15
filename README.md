@@ -1,10 +1,3 @@
-# C++笔记
-```java
-    public static void main(String[] args) {
-        
-    }
-```
-
 # 相关书籍
 -  [C/C++](https://github.com/itdevbooks/pdf#c-%E8%AF%AD%E8%A8%80)
 - [Java](https://github.com/itdevbooks/pdf#java)
