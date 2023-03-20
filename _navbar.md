@@ -1,3 +1,4 @@
 * [首页](/)
+* [中间件](/note/_index.md)
 
-* [关于](/about/_index.md)
+
