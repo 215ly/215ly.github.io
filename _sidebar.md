@@ -1,5 +1,5 @@
-* [主页](/)
-* [文档1](doc1.md)
-  * [子文档11](doc11.md)
-  * [子文档12](doc12.md)
-* [文档2](doc2.md)
+* Typora+Docsify使用指南
+  * [Docsify使用指南](/ProjectDocs/Docsify使用指南.md) <!--注意这里是相对路径-->
+  * [Typora+Docsify快速入门](/ProjectDocs/Typora+Docsify快速入门.md)
+* Docsify部署
+  * [Docsify部署教程](/ProjectDocs/Docsify部署教程.md)
