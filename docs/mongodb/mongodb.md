@@ -57,3 +57,10 @@ services:
     networks:
       - mongo
 ```
+
+
+# 3. 基本操作
+
+## 注意事项
+- `docker中运行bash: mongo: command not found报错问题处理`
+  - `mongo命令在mongodb 6.0已经不适用了,直接使用mongosh`
