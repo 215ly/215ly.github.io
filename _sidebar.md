@@ -1,3 +1,3 @@
-# [首页](/docs/index/index.md)
-# [MongoDB](/docs/mongodb/mongodb.md)
-  ## [1.MongoDB部署安装](/docs/mongodb/mongodb.md?id=_2docker-compose安装) <!--注意这里是相对路径-->
+- [首页](/docs/index/index.md)
+- MongoDB
+  - [1.MongoDB部署安装](/docs/mongodb/mongodb.md?id=_2docker-compose安装) <!--注意这里是相对路径-->
